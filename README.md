@@ -1,4 +1,4 @@
-# ESP32_HTTP_Switch
+# ESPSwitch
 
 A simple web server for the ESP-S3 Dev Board that allows toggling a physical GPIO pin
 
